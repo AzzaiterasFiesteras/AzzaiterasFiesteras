@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="imagenesdelproyecto/logo_azzait.png" width="100" height="100" />
+<img src="foto/LOGOAZZAITEROS.png" width="1000" height="1000" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azzaiterasfiesteras&label=Profile%20views&color=0e75b6&style=flat" alt="azzaiterasfiesteras" /> </p>
