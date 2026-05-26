@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azzaiterasfiesteras&label=Profile%20views&color=0e75b6&style=flat" alt="azzaiterasfiesteras" /> </p>
 
-- 🔭 We’are currently working on [WRO Future Engineers](https://world-robot-olympiad-association.github.io/future-engineers-gs/)
+- 🔭 We are currently working on [WRO Future Engineers](https://world-robot-olympiad-association.github.io/future-engineers-gs/)
 
-- 🌱 I’m currently learning **Arduino IDE, 3D Design and C++**
+- 🌱 We are currently learning **Arduino IDE, 3D Design and C++**
 
 - 📫 Our school **https://www.instagram.com/iesazzait/**
 
