@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, We´re Eva, Noa and Lidia</h1>
 <h3 align="center">Three passionated robotics girls from Jaén</h3>
 
+
+<p align="center">
+<img src="imagenesdelproyecto/logo_azzait.png" width="100" height="100" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azzaiterasfiesteras&label=Profile%20views&color=0e75b6&style=flat" alt="azzaiterasfiesteras" /> </p>
 
 - 🔭 We are currently working on [WRO Future Engineers](https://world-robot-olympiad-association.github.io/future-engineers-gs/)
