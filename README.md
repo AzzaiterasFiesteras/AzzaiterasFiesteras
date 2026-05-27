@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We´re Eva, Noa and Lidia</h1>
+<h1 align="center">Hi 👋, We´re Eva, Lidia and Noa </h1>
 <h3 align="center">Three passionated robotics girls from Jaén</h3>
 
 
